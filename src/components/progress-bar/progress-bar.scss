@@ -1,0 +1,37 @@
+.ProgressBar {
+    margin: 15px 0;
+
+    p {
+        text-align: center;
+    }
+
+    .ProgressBar-title {
+        span {
+            font-size: 18px;
+            font-weight: 600;
+        }
+    }
+
+    .ProgressBar-wrapper-alert {
+        margin-top: 15px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .ProgressBar-scale-wrapper {
+        display: flex;
+        justify-content: center;
+
+
+        .ProgressBar-scale {
+            margin-top: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 250px;
+            height: 30px;
+        }
+    }
+
+}

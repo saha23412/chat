@@ -1,0 +1,32 @@
+.Main {
+    .Main-title {
+        margin-top: 15px;
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+
+    .Main-description {
+        margin-top: 15px;
+
+        font-size: 1rem;
+    }
+
+    .Main-search {
+        display: flex;
+        width: 100%;
+        align-items: flex-end;
+
+        .Main-search-input {
+            width: 75%;
+        }
+
+        .Main-search-button {
+            width: 25%;
+
+            button {
+                border-radius: 0px;
+                border: 1px solid transparent;
+            }
+        }
+    }
+}

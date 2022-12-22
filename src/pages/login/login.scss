@@ -1,0 +1,36 @@
+.Loader {
+    padding: 10px;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.SignIn-form {
+    overflow: hidden;
+    width: 40vw;
+    height: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+
+    .SignIn-form-subtitle {
+        color: rgba(0, 0, 0, 0.5);
+    }
+
+    .SignIn-form-error {
+        margin-top: 15px;
+        color: #d32f2f;
+
+    }
+
+    .SignIn-form-prompt {
+        a {
+            color: #1976d2;
+            margin-left: 5px;
+        }
+    }
+}

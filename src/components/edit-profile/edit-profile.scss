@@ -1,0 +1,30 @@
+.Edit-profile {
+    width: 35vw;
+    height: 100%;
+
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    .Edit-profile-error {
+        color: #d32f2f;
+        font-weight: 400;
+        font-size: 0.75rem;
+        line-height: 1.66;
+        letter-spacing: 0.03333em;
+        text-align: left;
+
+    }
+    
+    .Edit-profile-button {
+        width: 100%;
+        margin-top: 15px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+
+    }
+}
+

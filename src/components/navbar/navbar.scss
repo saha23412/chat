@@ -1,0 +1,22 @@
+
+    .Navbar{
+        display: flex;
+        justify-content: space-around;
+            .Navbar-logo{
+                display: flex;
+                .Navbar-logo-title{
+                    margin-right: 15px;
+                    font-size: 20px;
+                }
+              
+            }
+            .Navbar-output{
+                cursor: pointer;
+                display: flex;
+                .Navbar-output-title{
+                    margin-right: 15px;
+                }
+            }
+        }
+
+

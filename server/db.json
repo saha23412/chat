@@ -1,0 +1,333 @@
+{
+  "cities": [
+    {
+      "name": "Новосибирск",
+      "id": 1
+    },
+    {
+      "name": "Москва",
+      "id": 2
+    },
+    {
+      "name": "Санкт-Петербург",
+      "id": 3
+    },
+    {
+      "name": "Кемерово",
+      "id": 4
+    }
+  ],
+  "vacancies": [
+    {
+      "id": "0",
+      "jobTitle": "Официант",
+      "companyTitle": "СушиРоллы",
+      "title": "Обслуживание гостей по стандартам заведения. - повышение среднего чека, доп.продажи. - поддержание приятной атмосферы отдыха , общение с гостями. - предупреждение конфликтных ситуаций.",
+      "minimumAge": 14,
+      "wages": 150000,
+      "citie": "Москва",
+      "rating": 3.5
+    },
+    {
+      "id": "1",
+      "jobTitle": "Frontend-разработчик",
+      "companyTitle": "SOLID",
+      "title": "Наш стек технологий:HTML, CSS, SASS/SCSS, БЭМ, PUG JavaScript (ES6+)React + Redux, NextJS GraphQL/REST API + Websocket Git, GitHub знание методологии БЭМ и уверенное использование её на практике.",
+      "minimumAge": 18,
+      "wages": 150000,
+      "citie": "Кемерово",
+      "rating": 3
+    },
+    {
+      "id": "2",
+      "jobTitle": "Стажер-программист React",
+      "companyTitle": "ОАО ВРЕН",
+      "title": "Обязанности:Разработка веб-интерфейсов на React ,Разработка своих компонентов на React ,Написание Unit тестов;",
+      "minimumAge": 18,
+      "wages": 255000,
+      "citie": "Санкт-Петербург",
+      "rating": 4
+    },
+    {
+      "id": "3",
+      "jobTitle": "Backend-разработчик",
+      "companyTitle": "Server Start",
+      "title": "Задачи:Разработка новых и поддержка существующих продуктов компании ,разработка кода backend части проекта,интеграция сервисов и API,участие в проектировании и создании архитектуры",
+      "minimumAge": 18,
+      "wages": 350000,
+      "citie": "Новосибирск",
+      "rating": 4.5
+    },
+    {
+      "id": "4",
+      "jobTitle": "Full-stack разработчик",
+      "companyTitle": "Мед",
+      "title": "Описание проекта: Работа над внутрибанковским приложением которое позволяет автоматизировать проверку качества данных.Не менее трех лет коммерческого опыта с JavaScript, React, Node.js. Уверенные знания CSS на уровне владения Flex/Grid",
+      "minimumAge": 18,
+      "wages": 130000,
+      "citie": "Москва",
+      "rating": 2.5
+    },
+    {
+      "id": "5",
+      "jobTitle": "Full-stack разработчик",
+      "companyTitle": "ВЕО",
+      "title": "Описание проекта: Работа над внутрибанковским приложением которое позволяет автоматизировать проверку качества данных.Не менее трех лет коммерческого опыта с JavaScript, React, Node.js. Уверенные знания CSS на уровне владения Flex/Grid",
+      "minimumAge": 18,
+      "wages": 250100,
+      "citie": "Кемерово",
+      "rating": 5
+    },
+    {
+      "id": "6",
+      "jobTitle": "Full-stack разработчик",
+      "companyTitle": "Форм",
+      "title": "Описание проекта: Работа над внутрибанковским приложением которое позволяет автоматизировать проверку качества данных.Не менее трех лет коммерческого опыта с JavaScript, React, Node.js. Уверенные знания CSS на уровне владения Flex/Grid",
+      "minimumAge": 18,
+      "wages": 100000,
+      "citie": "Москва",
+      "rating": 3.5
+    },
+    {
+      "id": "7",
+      "jobTitle": "Full-stack разработчик",
+      "companyTitle": "ОАО Медь",
+      "title": "Описание проекта: Работа над внутрибанковским приложением которое позволяет автоматизировать проверку качества данных.Не менее трех лет коммерческого опыта с JavaScript, React, Node.js. Уверенные знания CSS на уровне владения Flex/Grid",
+      "minimumAge": 18,
+      "wages": 90000,
+      "citie": "Кемерово",
+      "rating": 1.5
+    },
+    {
+      "id": "8",
+      "jobTitle": "Full-stack разработчик",
+      "companyTitle": "ОАО Техно",
+      "title": "Описание проекта: Работа над внутрибанковским приложением которое позволяет автоматизировать проверку качества данных.Не менее трех лет коммерческого опыта с JavaScript, React, Node.js. Уверенные знания CSS на уровне владения Flex/Grid",
+      "minimumAge": 18,
+      "wages": 110000,
+      "citie": "Москва",
+      "rating": 2
+    },
+    {
+      "id": "9",
+      "jobTitle": "Full-stack разработчик",
+      "companyTitle": "СКК",
+      "title": "Описание проекта: Работа над внутрибанковским приложением которое позволяет автоматизировать проверку качества данных.Не менее трех лет коммерческого опыта с JavaScript, React, Node.js. Уверенные знания CSS на уровне владения Flex/Grid",
+      "minimumAge": 18,
+      "wages": 35000,
+      "citie": "Новосибирск",
+      "rating": 3.5
+    },
+    {
+      "id": "10",
+      "jobTitle": "Full-stack разработчик",
+      "companyTitle": "ОАО КолпакМед",
+      "title": "Описание проекта: Работа над внутрибанковским приложением которое позволяет автоматизировать проверку качества данных.Не менее трех лет коммерческого опыта с JavaScript, React, Node.js. Уверенные знания CSS на уровне владения Flex/Grid",
+      "minimumAge": 18,
+      "wages": 25000,
+      "citie": "Москва",
+      "rating": 5
+    },
+    {
+      "id": "11",
+      "jobTitle": "Full-stack разработчик",
+      "companyTitle": "ОАО Информация",
+      "title": "Описание проекта: Работа над внутрибанковским приложением которое позволяет автоматизировать проверку качества данных.Не менее трех лет коммерческого опыта с JavaScript, React, Node.js. Уверенные знания CSS на уровне владения Flex/Grid",
+      "minimumAge": 18,
+      "wages": 70000,
+      "citie": "Кемерово",
+      "rating": 2.5
+    },
+    {
+      "id": "12",
+      "jobTitle": "Full-stack разработчик",
+      "companyTitle": "ОАО ВИД",
+      "title": "Описание проекта: Работа над внутрибанковским приложением которое позволяет автоматизировать проверку качества данных.Не менее трех лет коммерческого опыта с JavaScript, React, Node.js. Уверенные знания CSS на уровне владения Flex/Grid",
+      "minimumAge": 18,
+      "wages": 65000,
+      "citie": "Москва",
+      "rating": 4
+    },
+    {
+      "id": "13",
+      "jobTitle": "Full-stack разработчик",
+      "companyTitle": "Start",
+      "title": "Описание проекта: Работа над внутрибанковским приложением которое позволяет автоматизировать проверку качества данных.Не менее трех лет коммерческого опыта с JavaScript, React, Node.js. Уверенные знания CSS на уровне владения Flex/Grid",
+      "minimumAge": 18,
+      "wages": 75000,
+      "citie": "Санкт-Петербург",
+      "rating": 5
+    },
+    {
+      "id": "14",
+      "jobTitle": "Full-stack разработчик",
+      "companyTitle": "ЦЭК",
+      "title": "Описание проекта: Работа над внутрибанковским приложением которое позволяет автоматизировать проверку качества данных.Не менее трех лет коммерческого опыта с JavaScript, React, Node.js. Уверенные знания CSS на уровне владения Flex/Grid",
+      "minimumAge": 18,
+      "wages": 65000,
+      "citie": "Кемерово",
+      "rating": 4.5
+    },
+    {
+      "id": "15",
+      "jobTitle": "Full-stack разработчик",
+      "companyTitle": "Создание",
+      "title": "Описание проекта: Работа над внутрибанковским приложением которое позволяет автоматизировать проверку качества данных.Не менее трех лет коммерческого опыта с JavaScript, React, Node.js. Уверенные знания CSS на уровне владения Flex/Grid",
+      "minimumAge": 18,
+      "wages": 80000,
+      "citie": "Санкт-Петербург",
+      "rating": 3.5
+    },
+    {
+      "id": "16",
+      "jobTitle": "Full-stack разработчик",
+      "companyTitle": "Разработка.ru",
+      "title": "Описание проекта: Работа над внутрибанковским приложением которое позволяет автоматизировать проверку качества данных.Не менее трех лет коммерческого опыта с JavaScript, React, Node.js. Уверенные знания CSS на уровне владения Flex/Grid",
+      "minimumAge": 18,
+      "wages": 94000,
+      "citie": "Новосибирск",
+      "rating": 4
+    },
+    {
+      "id": "17",
+      "jobTitle": "Full-stack разработчик",
+      "companyTitle": "ОАО Дизайн",
+      "title": "Описание проекта: Работа над внутрибанковским приложением которое позволяет автоматизировать проверку качества данных.Не менее трех лет коммерческого опыта с JavaScript, React, Node.js. Уверенные знания CSS на уровне владения Flex/Grid",
+      "minimumAge": 18,
+      "wages": 83000,
+      "citie": "Санкт-Петербург",
+      "rating": 4.5
+    },
+    {
+      "id": "18",
+      "companyTitle": "ОАО Качество",
+      "jobTitle": "Full-stack разработчик",
+      "title": "Описание проекта: Работа над внутрибанковским приложением которое позволяет автоматизировать проверку качества данных.Не менее трех лет коммерческого опыта с JavaScript, React, Node.js. Уверенные знания CSS на уровне владения Flex/Grid",
+      "minimumAge": 18,
+      "wages": 24000,
+      "citie": "Кемерово",
+      "rating": 2.5
+    },
+    {
+      "id": "19",
+      "jobTitle": "Full-stack разработчик",
+      "companyTitle": "ЛЦ Экономики",
+      "title": "Описание проекта: Работа над внутрибанковским приложением которое позволяет автоматизировать проверку качества данных.Не менее трех лет коммерческого опыта с JavaScript, React, Node.js. Уверенные знания CSS на уровне владения Flex/Grid",
+      "minimumAge": 18,
+      "wages": 40000,
+      "citie": "Санкт-Петербург",
+      "rating": 1.5
+    },
+    {
+      "id": "20",
+      "companyTitle": "ОАО Разработка",
+      "jobTitle": "Full-stack разработчик",
+      "title": "Описание проекта: Работа над внутрибанковским приложением которое позволяет автоматизировать проверку качества данных.Не менее трех лет коммерческого опыта с JavaScript, React, Node.js. Уверенные знания CSS на уровне владения Flex/Grid",
+      "minimumAge": 18,
+      "wages": 62000,
+      "citie": "Москва",
+      "rating": 4.5
+    }
+  ],
+  "users": [
+    {
+      "id": "n-M8MkdtA7Y0nDpJKSzl8",
+      "name": "Александр",
+      "surname": "Киприянов",
+      "age": "20",
+      "login": "kipriyanovsaha@gmail.com",
+      "password": "123456",
+      "cities": "Москва"
+    },
+    {
+      "id": "niZF_MRTyNC4jPCLtGMmp",
+      "name": "Александр",
+      "surname": "aboba@gmail.ru",
+      "age": "19",
+      "login": "aboba@gmail.ru",
+      "password": "123456",
+      "cities": "Москва"
+    },
+    {
+      "id": "RWvX4SUSKbxZfHWTP8ze0",
+      "name": "EWQEWQ",
+      "surname": "EWQEWQE",
+      "age": "18",
+      "login": "abobae@gmail.ru",
+      "password": "2313213",
+      "cities": "Санкт-Петербург"
+    },
+    {
+      "id": "NFpjMW8dMLdf7-EhvY1N2",
+      "name": "ewqewqe",
+      "surname": "ewqewqe",
+      "age": "13",
+      "login": "abobac@gmail.ru",
+      "password": "123456",
+      "cities": "Москва"
+    },
+    {
+      "id": "3VkijJrItw37LaVUE99JW",
+      "name": "Александр",
+      "surname": "Киприянов",
+      "age": "14",
+      "login": "aleX@gmail.ru",
+      "password": "123456",
+      "cities": "Москва"
+    },
+    {
+      "id": "h6g3pLoG_AvKbfqO8X-eM",
+      "name": "Александр",
+      "surname": "Киприянов",
+      "age": "19",
+      "login": "abobaeqeqewqe@gmail.ru",
+      "password": "123456",
+      "cities": "Новосибирск"
+    },
+    {
+      "id": "CBveX7nlizf-BGW0ds6jP",
+      "name": "Алексанлр",
+      "surname": "йуйцуйуйу",
+      "age": "21",
+      "login": "abobeq@gmail.ru",
+      "password": "123456",
+      "cities": "Москва"
+    },
+    {
+      "id": "IU9Us1UDnFpc80ONUjGYn",
+      "name": "Alex",
+      "surname": "kip",
+      "age": "12",
+      "login": "qewqeqee@mail.ru",
+      "password": "1231312313",
+      "cities": "Москва"
+    },
+    {
+      "id": "yv1TaGhitY1yl_gWH7NEg",
+      "name": "aQWEEQ",
+      "surname": "EQWEQWE",
+      "age": "13",
+      "login": "k@mail.com",
+      "password": "123456",
+      "cities": "Новосибирск"
+    },
+    {
+      "id": "x0wcZRbIPu-Crzqgm7w2e",
+      "name": "ewqeqeqwe",
+      "surname": "qeeqeqeqeq",
+      "age": "15",
+      "login": "abobwa@gmail.ru",
+      "password": "qeeqweweqwe",
+      "cities": "Кемерово"
+    },
+    {
+      "id": "dC_U32wxooqLNWPhoN5X9",
+      "name": "Александр",
+      "surname": "Киприянов",
+      "age": "19",
+      "login": "kev@gmail.ru",
+      "password": "123456",
+      "cities": "Новосибирск"
+    }
+  ]
+}

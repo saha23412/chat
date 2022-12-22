@@ -1,0 +1,68 @@
+.VacanciesList {
+    .VacanciesList-search {
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        align-items: flex-end;
+        padding: 15px;
+
+        .VacanciesList-search-select {
+            width: 20%;
+        }
+    }
+    .VacanciesList-sort{
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        align-items: flex-end;
+        padding: 15px;
+    }
+    .VacanciesList-loading {
+        margin-top: 15px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.VacanciesList-wrapper::-webkit-scrollbar {
+    width: 10px;
+
+}
+
+.VacanciesList-wrapper::-webkit-scrollbar-track {
+    background: rgb(255, 255, 255);
+    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 40%, rgba(241, 241, 241, 1) 60%);
+}
+
+.VacanciesList-wrapper::-webkit-scrollbar-thumb {
+    background-color: rgba(25, 118, 210, .4);
+    border-radius: 5px;
+
+    height: 20px;
+}
+
+.VacanciesList-wrapper {
+
+    position: relative;
+    height: 435px;
+    overflow-y: scroll;
+
+
+    .VacanciesList-arrow-wrapper-up {
+        cursor: pointer;
+        background-color: #1976d2;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 45px;
+        height: 45px;
+        position: fixed;
+        right: 0;
+        border-radius: 5px;
+    }
+
+
+
+}
