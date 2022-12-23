@@ -34,7 +34,7 @@ npm run dev
 ## Технологии
 React,TypeScript,Redux-toolkit,Material-UI.  
 Валидация форм useForm.    
-Препроцессор SCSS.
-  Все данные харянятся на json-server к нему мы делаем запросы (GET,POST,PATCH)
+Препроцессор SCSS.   
+Все данные харянятся на json-server к нему мы делаем запросы (GET,POST,PATCH)   
 ## Статус проекта
 Не завершил
