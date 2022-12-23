@@ -18,6 +18,8 @@ npm run dev
 ![Image alt](https://github.com/saha23412/imgproj/raw/main/hh4.jpg)
 Можем перейти и посмотреть вакансии.
 ![Image alt](https://github.com/saha23412/imgproj/raw/main/hh5.jpg)
+Есть сортировка вакансий и live search.
+![Image alt](https://github.com/saha23412/imgproj/raw/main/hh8.jpg)
 Так выглядит карточка вакансии,тут мы видим информацию о данной вакансии,мы можем откликнуться на нее или добавить в избранное.  
 ![Image alt](https://github.com/saha23412/imgproj/raw/main/hh6.jpg)  
 После отклика мы видим информацию о успешном отклике,также полоса прогресса увеличиться на 1   
