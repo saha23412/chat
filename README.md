@@ -1,7 +1,7 @@
 # Поиск работы
 ## Установка пакетов
 npm i 
-## Версия проекта
+## Версия node
 v16.16.0
 ## Запуск проекта и json-server
 npm run dev
@@ -21,6 +21,7 @@ npm run dev
 Так выглядит карточка вакансии,тут мы видим информацию о данной вакансии,мы можем откликнуться на нее или добавить в избранное.  
 ![Image alt](https://github.com/saha23412/imgproj/raw/main/hh6.jpg)  
 После отклика мы видим информацию о успешном отклике,также полоса прогресса увеличиться на 1   
-![Image alt](https://github.com/saha23412/imgproj/raw/main/hh7.jpg)
- 
+![Image alt](https://github.com/saha23412/imgproj/raw/main/hh7.jpg) 
 ![Image alt](https://github.com/saha23412/imgproj/raw/main/hh10.jpg)
+У вакансии есть проверка на возраст,если у пользователя возраст не подходит,карточка вакансии выглядит так,откликнуться на нее нельзя.  
+![Image alt](https://github.com/saha23412/imgproj/raw/main/hh11.jpg)  
