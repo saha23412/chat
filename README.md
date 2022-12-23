@@ -18,7 +18,7 @@ npm run dev
 ![Image alt](https://github.com/saha23412/imgproj/raw/main/hh4.jpg)
 Можем перейти и посмотреть вакансии.
 ![Image alt](https://github.com/saha23412/imgproj/raw/main/hh5.jpg)
-Так выглядит карточка вакансии,тут мы видим информацию о данной вакансии,мы можем откликнуться на нее или добавить в избранное
+Так выглядит карточка вакансии,тут мы видим информацию о данной вакансии,мы можем откликнуться на нее или добавить в избранное.  
 ![Image alt](https://github.com/saha23412/imgproj/raw/main/hh6.jpg)
 После отклика мы видим информацию о успешном отклике.
 ![Image alt](https://github.com/saha23412/imgproj/raw/main/hh7.jpg)
