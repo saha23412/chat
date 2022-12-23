@@ -1,8 +1,7 @@
 import React, { useEffect } from 'react'
 import { Typography, Button } from "@mui/material"
-import { useNavigate } from 'react-router-dom'
 import { nanoid } from 'nanoid'
-import { useForm, useFormState, SubmitHandler, Controller } from 'react-hook-form'
+import { useForm, useFormState, Controller } from 'react-hook-form'
 import { IRegistretionProps } from '../../models/interface/registretion'
 import "./registration.scss"
 import { User } from '../../models/types/users'
@@ -126,7 +125,7 @@ const Registration: React.FC<IRegistretionProps> = ({ cities, users, createNewUs
                 <Prompt
                     path='/login'
                     question='У вас уже есть аккаунт?'
-                    linkText='Пройдите аутентификацию'
+                    linkText='Пройдите авторизацию'
                 />
 
             </form>

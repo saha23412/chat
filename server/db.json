@@ -328,6 +328,15 @@
       "login": "kev@gmail.ru",
       "password": "123456",
       "cities": "Новосибирск"
+    },
+    {
+      "id": "mX12VYeW-uTZJteNT8HoG",
+      "name": "Саня",
+      "surname": "кип",
+      "age": "19",
+      "login": "abobqa@gmail.ru",
+      "password": "123456",
+      "cities": "Москва"
     }
   ]
 }
