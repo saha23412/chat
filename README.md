@@ -29,3 +29,7 @@ npm run dev
 ![Image alt](https://github.com/saha23412/imgproj/raw/main/hh11.jpg)  
   Если мы перейдем в настройки профиля, там можно поменять информацию о себе
 ![Image alt](https://github.com/saha23412/imgproj/raw/main/hh9.jpg) 
+## Технологии
+React,TypeScript,Redux-toolkit,Material-UI.
+Валидация форм useForm.
+Все данные харянятся на json-server к нему мы делаем запросы (GET,POST,PATCH)
