@@ -1,46 +1,37 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Поиск работы
+## Установка пакетов
+npm i 
+## Версия node
+v16.16.0
+## Запуск проекта и json-server
+npm run dev
+## Описание проекта
+Веб-приложение по поиску работы.
+## Функционал проекта 
+После открытия веб-приложения нам предлагают авторизоваться.
+Если аккаунта нет,то можно пройти зарегистрироваться.
+![Image alt](https://github.com/saha23412/imgproj/raw/main/hh1.jpg)
+Если поля будут пусты появится ошибка,если пользователья нет ,то тоже появится ошибка.
+![Image alt](https://github.com/saha23412/imgproj/raw/main/hh2.jpg)
+Для регистрации нужно ввести информацию о себе.Все поля формы обязательны.
+У каждого из полей есть проверка на адекватность введенной информации.Например:в поле "Возраст" нельзя вводить буквы,только цифры.
+![Image alt](https://github.com/saha23412/imgproj/raw/main/hh3.jpg)
+После успешной авторизации мы попадаем в личный кабинет,тут есть личная информация и полоса прогресса.
+![Image alt](https://github.com/saha23412/imgproj/raw/main/hh4.jpg)
+Можем перейти и посмотреть вакансии.
+![Image alt](https://github.com/saha23412/imgproj/raw/main/hh5.jpg)
+Есть сортировка вакансий и live search.
+![Image alt](https://github.com/saha23412/imgproj/raw/main/hh8.jpg)
+Так выглядит карточка вакансии,тут мы видим информацию о данной вакансии,мы можем откликнуться на нее или добавить в избранное.  
+![Image alt](https://github.com/saha23412/imgproj/raw/main/hh6.jpg)  
+После отклика мы видим информацию о успешном отклике,также полоса прогресса увеличиться на 1   
+![Image alt](https://github.com/saha23412/imgproj/raw/main/hh7.jpg) 
+![Image alt](https://github.com/saha23412/imgproj/raw/main/hh10.jpg)
+У вакансии есть проверка на возраст,если у пользователя возраст не подходит,карточка вакансии выглядит так,откликнуться на нее нельзя.  
+![Image alt](https://github.com/saha23412/imgproj/raw/main/hh11.jpg)  
+  Если мы перейдем в настройки профиля, там можно поменять информацию о себе
+![Image alt](https://github.com/saha23412/imgproj/raw/main/hh9.jpg) 
+## Технологии
+React,TypeScript,Redux-toolkit,Material-UI.  
+Валидация форм useForm.  
+Все данные харянятся на json-server к нему мы делаем запросы (GET,POST,PATCH)
