@@ -33,7 +33,7 @@ npm run dev
 ![Image alt](https://github.com/saha23412/imgproj/raw/main/hh9.jpg) 
 ## Технологии
 React,TypeScript,Redux-toolkit,Material-UI.  
-Валидация форм useForm.  
+Валидация форм useForm.    
 Препроцессор SCSS.
 Все данные харянятся на json-server к нему мы делаем запросы (GET,POST,PATCH)
 ## Статус проекта
