@@ -25,3 +25,5 @@ npm run dev
 ![Image alt](https://github.com/saha23412/imgproj/raw/main/hh10.jpg)
 У вакансии есть проверка на возраст,если у пользователя возраст не подходит,карточка вакансии выглядит так,откликнуться на нее нельзя.  
 ![Image alt](https://github.com/saha23412/imgproj/raw/main/hh11.jpg)  
+  Если мы перейдем в настройки профиля, там можно поменять информацию о себе
+![Image alt](https://github.com/saha23412/imgproj/raw/main/hh9.jpg) 
